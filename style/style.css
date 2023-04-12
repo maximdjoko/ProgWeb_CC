@@ -729,6 +729,7 @@ font-size: 9px;
 }
 .bloc1,.bloc2,.bloc4,#bc3i2{
       visibility: hidden;
+      /* pour les blocs ne s'affiche pas */
       display: none;
 }
 
