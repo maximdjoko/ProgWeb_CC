@@ -601,16 +601,16 @@ body{
   height: 10%;
 }
 .div1{
-  margin-left: 15%;
+  margin-left: 14%;
   width: 30%;
   height: 60%;
-  margin-top: 3%;
+  margin-top: 2%;
   /* background-color: blueviolet; */
   float: left;
 }
 
 #dv1h{
-font-size: 15px;
+font-size: 14px;
 }
 
 #dvi2{
@@ -630,11 +630,13 @@ font-size: 15px;
 }
 #dv3h1{
 margin-top: -1px;
-font-size: 15px;
+margin-bottom: -2px;
+font-size: 14px;
 
 }
 #dv3h6{
-  font-size: 8px;
+  margin-top:1px;
+  font-size: 5px;
 
   }
  /* pour le texte en dessous de l'image */
@@ -667,7 +669,9 @@ font-size: 15px;
   /* margin: -6% auto auto auto; */
   text-align: center;
 }
-
+#nv1{
+  margin-left: -30%;
+}
 #navl1,#navl2,#navl3,#navl4,#navl5{
   width: 18%;
 
@@ -682,8 +686,10 @@ font-size: 15px;
   width: 100%;
   /* visibility: hidden; */
   /* text-align: center; */
+  position: relative;
   float: left;
-  margin: -190% auto auto auto;
+  margin: -150% auto auto auto;
+
 
 }
 #bc3i1,#bc3i1_1{
