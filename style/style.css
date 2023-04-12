@@ -602,9 +602,7 @@ body{
 }
 .div1{
   margin-left: 14%;
-  padding: 0px;
   /* padding-top: -1%; */
- /* margin-top: 1%; */
   /* background-color: blueviolet; */
   float: left;
 }
@@ -617,6 +615,8 @@ font-size: 9px;
   height: 23%;
   position: relative;
   margin-top: auto;
+  margin-bottom: auto;
+ 
   top: 18%;
 }
 #dvi2{
@@ -635,7 +635,7 @@ font-size: 9px;
 #dv3h1{
 margin-top: -1px;
 margin-bottom: -2px;
-font-size: 10px;
+font-size: 9px;
 
 }
 #dv3h6{
