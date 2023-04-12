@@ -610,7 +610,7 @@ body{
 }
 
 #dv1h{
-font-size: 14px;
+font-size: 11px;
 }
 
 #dvi2{
@@ -631,7 +631,7 @@ font-size: 14px;
 #dv3h1{
 margin-top: -1px;
 margin-bottom: -2px;
-font-size: 14px;
+font-size: 11px;
 
 }
 #dv3h6{
@@ -645,7 +645,7 @@ font-size: 14px;
   padding: 2%; 
 }
 #b2h{
-   font-size: 15px;
+   font-size: 10px;
 } 
 /*  pour la navigation gauche image*/
 #navd{
@@ -666,7 +666,8 @@ font-size: 14px;
 }
 /*  */
 .navigation1{
-  /* margin: -6% auto auto auto; */
+  /* margin:  auto auto auto; */
+  margin-top: -5%;
   text-align: center;
 }
 #nv1{
@@ -688,7 +689,7 @@ font-size: 14px;
   /* text-align: center; */
   position: relative;
   float: left;
-  margin: -150% auto auto auto;
+  margin: -180% auto auto auto;
 
 
 }
