@@ -399,6 +399,7 @@ body{
  @media screen and (min-width:769px) and (max-width:992px) {
   body{
     background-color: #fcf7f7;
+    overflow-x: hidden;
   }
   .navigation{
     margin-top: 6%;
@@ -580,7 +581,9 @@ body{
 
 /* vue sur android */
 @media screen and (min-width:320px) and (max-width:768px) {
- 
+ body{
+  overflow-x: hidden;
+ }
   .navigation{
     margin-top: -8%;
   }
