@@ -639,7 +639,7 @@ font-size: 9px;
 }
 #dv3h6{
   margin-top:1px;
-  font-size: 5px;
+  font-size: 3px;
 
   }
  /* pour le texte en dessous de l'image */
@@ -692,7 +692,7 @@ font-size: 9px;
   /* text-align: center; */
   position: relative;
   float: left;
-  margin: -150% auto auto auto;
+  margin: -151% auto auto auto;
 
 
 }
